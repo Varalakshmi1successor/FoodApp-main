@@ -1,0 +1,28 @@
+.home-jumbotron {
+    background-image: url('./images/hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start; /* Align content to the left */
+    align-items: center;
+    text-align: left;
+    padding-left: 20px; /* Adjust left padding for spacing */
+  }
+  
+  .home-title {
+    color: white;
+    text-align: left;
+    margin-bottom: 10px; /* Example: adjust title spacing */
+  }
+  
+  .home-subtitle {
+    color: white;
+    text-align: left;
+    margin-bottom: 20px; /* Example: adjust subtitle spacing */
+  }
+  
+  .home-button {
+    margin-top: 20px;
+  }
+  
